@@ -47,7 +47,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
     </tr>
     <tr>
       <td>KRB-Homepage</td>
-      <td>Landingpage</td>
+      <td>Portfolio</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
@@ -67,7 +67,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Fri, 07 May 2021 08:20 PM
+⏰ Updated on Thu, 11 May 2021 09:28 PM
 
 <!--
 **NinoKrb/NinoKrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
