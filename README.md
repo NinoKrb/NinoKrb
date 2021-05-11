@@ -15,11 +15,16 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 [![Github](https://img.shields.io/badge/-NinoKrb-gray?style=flat-square&logo=github&logoColor=white)](https://www.github.com/ninokrb/)
 
 ## Daily Business:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://developer.mozilla.org/de/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML5" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/html/html.svg"> </a>
-<a href="https://developer.mozilla.org/de/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/css/css.svg"> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/python/python-5.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/java/java-4.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/js/logo-javascript.svg"> </a>
+<a href="https://developer.mozilla.org/de/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML5" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/html/html5.svg"> </a>
+<a href="https://developer.mozilla.org/de/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/css/css-5.svg"> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap4" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/bootstrap/bootstrap-4.svg"> </a>
+<a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/laravel/laravel-2.svg"> </a>
+<a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank"> <img align="left" alt="PHP" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/php/php-1.svg"> </a>
+<a href="https://www.gitkraken.com/" target="_blank"> <img align="left" alt="Gitkraken" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/gitkraken/gitkraken.svg"> </a>
+<a href="https://mariadb.org/" target="_blank"> <img align="left" alt="MariaDB" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/mariadb/mariadb.svg"> </a>
 
 <br><br>
 
