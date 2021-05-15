@@ -52,13 +52,13 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
     </tr>
     <tr>
       <td>KRB-Homepage</td>
-      <td>Portfolio</td>
+      <td>Team Pages</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
     <tr>
       <td>TBS1-Textadventure</td>
-      <td>Questsystem</td>
+      <td>Character Manager</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
@@ -78,19 +78,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Thu, 13 May 2021 12:55 AM
+⏰ Updated on Sat, 15 May 2021 11:50 PM
 
-<!--
-**NinoKrb/NinoKrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
