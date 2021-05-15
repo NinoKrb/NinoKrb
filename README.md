@@ -46,7 +46,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   <tbody>
     <tr>
       <td>WorkUP</td>
-      <td>Notification Manager</td>
+      <td>Todo Manager</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
