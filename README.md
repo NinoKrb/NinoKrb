@@ -58,7 +58,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
     </tr>
     <tr>
       <td>TBS1-Textadventure</td>
-      <td>Character Manager</td>
+      <td>Room Manager</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
