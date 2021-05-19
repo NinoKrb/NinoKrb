@@ -51,8 +51,8 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
       <td>In Progress</td>
     </tr>
     <tr>
-      <td>KRB-Homepage</td>
-      <td>Team Pages</td>
+      <td>Notemanager Vue</td>
+      <td>sep. Note view</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
