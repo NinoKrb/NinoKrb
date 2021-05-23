@@ -45,20 +45,14 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   </thead>
   <tbody>
     <tr>
-      <td>WorkUP</td>
-      <td>Todo Manager</td>
-      <td>Private</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>Notemanager Vue</td>
-      <td>sep. Note view</td>
+      <td>Todo Vue</td>
+      <td>Todoboard Manager</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
     <tr>
       <td>TBS1-Textadventure</td>
-      <td>Room Manager</td>
+      <td>Player POV</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
@@ -73,10 +67,11 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 - [x] learn how to work with Laravel
 - [ ] enhance Laravel skills
 - [ ] enhance Javascript skills
+- [ ] learn how to work with VueJs
 - [ ] own public Webapplication
 - [ ] learn mobile development
 
 ---
 
-⏰ Updated on Wed, 19 May 2021 10:50 PM
+⏰ Updated on Mon, 24 May 2021 01:21 AM
 
