@@ -66,12 +66,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 - [ ] contributing more in Open Source projects
 - [x] learn how to work with Laravel
 - [ ] enhance Laravel skills
-- [ ] enhance Javascript skills
-- [ ] learn how to work with VueJs
+- [x] learn how to work with VueJs
+- [ ] enhance VueJs skills
 - [ ] own public Webapplication
 - [ ] learn mobile development
 
 ---
 
-⏰ Updated on Mon, 24 May 2021 01:21 AM
+⏰ Updated on Thu, 27 May 2021 01:48 AM
 
