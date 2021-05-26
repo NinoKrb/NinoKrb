@@ -25,6 +25,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 <a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank"> <img align="left" alt="PHP" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/php/php-1.svg"> </a>
 <a href="https://www.gitkraken.com/" target="_blank"> <img align="left" alt="Gitkraken" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/gitkraken/gitkraken.svg"> </a>
 <a href="https://mariadb.org/" target="_blank"> <img align="left" alt="MariaDB" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/mariadb/mariadb.svg"> </a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
 
 <br><br>
 
