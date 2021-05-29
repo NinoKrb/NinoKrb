@@ -46,8 +46,8 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   </thead>
   <tbody>
     <tr>
-      <td>Todo Vue</td>
-      <td>Todoboard Manager</td>
+      <td>Product Manager</td>
+      <td>Product-CP</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
@@ -74,5 +74,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Thu, 27 May 2021 01:48 AM
+⏰ Updated on Sat, 29 May 2021 11:59 PM
 
