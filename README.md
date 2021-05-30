@@ -47,7 +47,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   <tbody>
     <tr>
       <td>Product Manager</td>
-      <td>Product-CP</td>
+      <td>Single Product editor</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
