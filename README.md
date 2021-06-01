@@ -47,15 +47,15 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   <tbody>
     <tr>
       <td>Product Manager</td>
-      <td>Single Product editor</td>
+      <td>Brand & Category manager</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
     <tr>
       <td>TBS1-Textadventure</td>
-      <td>Player POV</td>
+      <td>-/-</td>
       <td>Private</td>
-      <td>In Progress</td>
+      <td>Currently paused</td>
     </tr>
   </tbody>
 </table>
@@ -74,5 +74,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Sun, 30 May 2021 11:46 PM
+⏰ Updated on Sun, 01 June 2021 11:33 PM
 
