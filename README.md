@@ -52,10 +52,10 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
       <td>In Progress</td>
     </tr>
     <tr>
-      <td>TBS1-Textadventure</td>
-      <td>-/-</td>
+      <td>Flutter Fitness</td>
+      <td>Screen Design</td>
       <td>Private</td>
-      <td>Currently paused</td>
+      <td>In Progress</td>
     </tr>
   </tbody>
 </table>
@@ -74,5 +74,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Sun, 01 June 2021 11:33 PM
+⏰ Updated on Sun, 03 June 2021 10:32 PM
 
