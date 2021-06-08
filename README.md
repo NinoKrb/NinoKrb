@@ -54,7 +54,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
       <td>In Progress</td>
     </tr>
     <tr>
-      <td>Flutter Ntes</td>
+      <td>Flutter Notes</td>
       <td>Based Design</td>
       <td>Private</td>
       <td>In Progress</td>
