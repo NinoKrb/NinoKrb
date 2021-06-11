@@ -48,20 +48,8 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   </thead>
   <tbody>
     <tr>
-      <td>Product Manager</td>
+      <td>Flutter News</td>
       <td>-/-</td>
-      <td>Private</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>Flutter Notes</td>
-      <td>-/-</td>
-      <td>Private</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>Vue Todo</td>
-      <td>Profile Page</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
@@ -72,7 +60,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ## Plans for 2021
 
-- [ ] contributing more in Open Source projects
+- [x] contributing more in Open Source projects
 - [x] learn how to work with Laravel
 - [ ] enhance Laravel skills
 - [x] learn how to work with VueJs
@@ -83,5 +71,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Sun, 10 June 2021 11:11 PM
+⏰ Updated on Sun, 12 June 2021 01:19 AM
 
