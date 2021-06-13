@@ -74,6 +74,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 - [ ] own public Webapplication
 - [ ] learn mobile development
 - [x] start with mobile development
+- [x] Work mainly on Linux destributions
 
 ---
 
