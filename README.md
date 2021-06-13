@@ -14,6 +14,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 [![Discord](https://img.shields.io/badge/-NinoKrb%230420-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/vKZ5N6hCBM)
 [![Github](https://img.shields.io/badge/-NinoKrb-gray?style=flat-square&logo=github&logoColor=white)](https://www.github.com/ninokrb/)
 
+## Operating Systems:
+<a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows 10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/windows10.svg"></a>
+<a href="https://ubuntu.com/download" target="_blank"><img align="left" alt="Ubuntu 20.10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/ubuntu.svg"></a>
+
+<br><br>
+
 ## Daily Business:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/python/python-5.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/java/java-4.svg"></a>
