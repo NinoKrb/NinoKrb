@@ -55,7 +55,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   <tbody>
     <tr>
       <td>Vue-Wikisystem</td>
-      <td>Frontend</td>
+      <td>Frontend | Role Management</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
@@ -78,5 +78,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Mon, 14 June 2021 10:02 PM
+⏰ Updated on Thue, 15 June 2021 11:44 PM
 
