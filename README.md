@@ -67,6 +67,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 ## Plans for 2021
 
 - [x] contributing more in Open Source projects
+- [ ] Building my own portfolio page
 - [x] learn how to work with Laravel
 - [ ] enhance Laravel skills
 - [x] learn how to work with VueJs
