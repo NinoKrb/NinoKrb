@@ -55,7 +55,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   <tbody>
     <tr>
       <td>Vue-Wikisystem</td>
-      <td>Moderation Area</td>
+      <td>Categories & Postings</td>
       <td>Private</td>
       <td>In Progress</td>
     </tr>
