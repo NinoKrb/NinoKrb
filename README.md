@@ -17,6 +17,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 ## Operating Systems:
 <a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows 10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/windows10.svg"></a>
 <a href="https://ubuntu.com/download" target="_blank"><img align="left" alt="Ubuntu 20.10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/ubuntu.svg"></a>
+<a href="https://www.deepin.org" target="_blank"><img align="left" alt="Deepin 20.02.02" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/deepin-logo.svg"></a>
 
 <br><br>
 
