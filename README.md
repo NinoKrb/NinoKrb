@@ -56,9 +56,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
   <tbody>
     <tr>
       <td>Vue-Wikisystem</td>
-      <td>Wiki Moderation</td>
+      <td>Final Testings</td>
       <td>Private</td>
-      <td>Active</td>
+      <td>Currently Paused</td>
     </tr>
   </tbody>
 </table>
@@ -80,5 +80,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Tue, 20 July 2021 11:54 PM
+⏰ Updated on Tue, 27 July 2021 09:50 PM
 
