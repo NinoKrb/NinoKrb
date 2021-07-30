@@ -35,6 +35,8 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
 <a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/dart/dart.svg"> </a>
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
+<a href="https://inertiajs.com/" target="_blank"> <img align="left" alt="IntersiaJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/IntersiaJs.png"> </a>
+
 
 <br><br>
 
