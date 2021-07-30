@@ -60,6 +60,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
       <td>Private</td>
       <td>Currently Paused</td>
     </tr>
+    <tr>
+      <td>Xupa</td>
+      <td>Core System</td>
+      <td>Private</td>
+      <td>Active</td>
+    </tr>
   </tbody>
 </table>
 
