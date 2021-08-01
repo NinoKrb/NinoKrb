@@ -38,7 +38,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 <a href="https://inertiajs.com/" target="_blank"> <img align="left" alt="IntersiaJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/IntersiaJs.png"> </a>
 
 
-<br><br><br>
+<br><br><br><br>
 
 ---
 
