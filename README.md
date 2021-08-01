@@ -38,8 +38,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
 <a href="https://inertiajs.com/" target="_blank"> <img align="left" alt="IntersiaJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/IntersiaJs.png"> </a>
 
-
-<br><br><br><br>
+<br><br>
 
 ---
 
@@ -89,5 +88,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Sun, 01 Aug 2021 02:23 PM
+⏰ Updated on Sun, 01 Aug 2021 02:29 PM
 
