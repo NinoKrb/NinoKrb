@@ -59,13 +59,13 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
     <tr>
       <td>Vue-Wikisystem</td>
       <td>Final Testings</td>
-      <td>Private</td>
+      <td>Public</td>
       <td>Currently Paused</td>
     </tr>
     <tr>
       <td>Xupa</td>
       <td>Core System</td>
-      <td>Private</td>
+      <td>Public</td>
       <td>Active</td>
     </tr>
   </tbody>
@@ -81,12 +81,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 - [ ] enhance Laravel skills
 - [x] learn how to work with VueJs
 - [ ] enhance VueJs skills
-- [ ] own public Webapplication
+- [x] own public Webapplication
 - [ ] learn mobile development
 - [x] start with mobile development
 - [x] Work mainly on Linux destributions
 
 ---
 
-⏰ Updated on Fr, 30 July 2021 11:33 PM
+⏰ Updated on Sun, 01 Aug 2021 02:23 PM
 
