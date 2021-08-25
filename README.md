@@ -60,7 +60,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
       <td>Vue-Wikisystem</td>
       <td>Final Testings</td>
       <td>Public</td>
-      <td>Active/td>
+      <td>Active</td>
     </tr>
     <tr>
       <td>Xupa</td>
@@ -88,5 +88,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Tue, 24 Aug 2021 11:47 PM
+⏰ Updated on Tue, 25 Aug 2021 09:32 PM
 
