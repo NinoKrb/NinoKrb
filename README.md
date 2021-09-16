@@ -18,10 +18,11 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 <a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows 10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/windows10.svg"></a>
 <a href="https://ubuntu.com/download" target="_blank"><img align="left" alt="Ubuntu 20.10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/ubuntu.svg"></a>
 <a href="https://www.deepin.org" target="_blank"><img align="left" alt="Deepin 20.02.02" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/deepin-logo.svg"></a>
+<a href="https://www.zorin.com" target="_blank"><img align="left" alt="Zorin 16" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/zorin-logo.svg"></a>
 
 <br><br>
 
-## Daily Business:
+## My Techstack:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/python/python-5.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/java/java-4.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/js/logo-javascript.svg"> </a>
@@ -36,7 +37,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
 <a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/dart/dart.svg"> </a>
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
-<a href="https://inertiajs.com/" target="_blank"> <img align="left" alt="IntersiaJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/IntersiaJs.png"> </a>
 
 <br><br>
 
