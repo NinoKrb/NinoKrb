@@ -82,7 +82,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 - [x] learn how to work with VueJs
 - [ ] enhance VueJs skills
 - [x] own public Webapplication
-- [ ] learn mobile development
 - [x] start with mobile development
 - [x] Work mainly on Linux destributions
 
