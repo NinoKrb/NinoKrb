@@ -13,6 +13,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 [![Twitter](https://img.shields.io/badge/-NinoKrb-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/ninokrb/)
 [![Discord](https://img.shields.io/badge/-NinoKrb%230420-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/vKZ5N6hCBM)
 [![Github](https://img.shields.io/badge/-NinoKrb-gray?style=flat-square&logo=github&logoColor=white)](https://www.github.com/ninokrb/)
+[![LinkedIn](https://img.shields.io/badge/-Nino%20Gralla-0E76A8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nino-gralla-b29a43212/)
 
 ## Operating Systems:
 <a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows 10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/windows10.svg"></a>
