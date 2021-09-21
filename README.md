@@ -65,9 +65,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
     </tr>
     <tr>
       <td>Xupa</td>
-      <td>Core System</td>
+      <td>Timetracker</td>
       <td>Public</td>
-      <td>Currently Paused</td>
+      <td>Active</td>
     </tr>
   </tbody>
 </table>
