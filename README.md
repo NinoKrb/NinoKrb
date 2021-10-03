@@ -9,6 +9,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 👨🏻‍💻 Member of Krb Development (Voluntary software developer team)
 
+🏢 Frontend Web-Developer @aventini GmbH
+
+
 [![Instagram](https://img.shields.io/badge/-nino.gla-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nino.gla/)
 [![Twitter](https://img.shields.io/badge/-NinoKrb-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/ninokrb/)
 [![Discord](https://img.shields.io/badge/-NinoKrb%230420-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/vKZ5N6hCBM)
