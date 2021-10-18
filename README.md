@@ -29,7 +29,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ## My Techstack:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/python/python-5.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/java/java-4.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/js/logo-javascript.svg"> </a>
 <a href="https://developer.mozilla.org/de/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML5" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/html/html5.svg"> </a>
 <a href="https://developer.mozilla.org/de/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/css/css-5.svg"> </a>
@@ -41,6 +40,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 <br><br><br>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxt.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/nuxtjs/nuxt-2.svg"> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwindcss" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/tailwind/tailwind-css-2.svg"> </a>
 <a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/dart/dart.svg"> </a>
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
 
