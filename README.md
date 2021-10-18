@@ -23,6 +23,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 <a href="https://ubuntu.com/download" target="_blank"><img align="left" alt="Ubuntu 20.10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/ubuntu.svg"></a>
 <a href="https://www.deepin.org" target="_blank"><img align="left" alt="Deepin 20.02.02" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/deepin-logo.svg"></a>
 <a href="https://www.zorin.com" target="_blank"><img align="left" alt="Zorin 16" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/zorin-logo.svg"></a>
+<a href="https://pop.system76.com/" target="_blank"><img align="left" alt="PopOs" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/popos.png"></a>
 
 <br><br>
 
@@ -38,9 +39,10 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 <a href="https://www.gitkraken.com/" target="_blank"> <img align="left" alt="Gitkraken" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/gitkraken/gitkraken.svg"> </a>
 <a href="https://mariadb.org/" target="_blank"> <img align="left" alt="MariaDB" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/mariadb/mariadb.svg"> </a>
 <br><br><br>
-<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
+<a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxt.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/nuxtjs/nuxt-2.svg"> </a>
 <a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/dart/dart.svg"> </a>
-<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="VueJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
+<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
 
 <br><br>
 
@@ -62,15 +64,15 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   <tbody>
     <tr>
       <td>Vue-Wikisystem</td>
-      <td>Final Testings</td>
+      <td>-/-</td>
       <td>Public</td>
       <td>Paused</td>
     </tr>
     <tr>
-      <td>Xupa</td>
-      <td>Timetracker</td>
-      <td>Public</td>
-      <td>Paused</td>
+      <td>Portfolio</td>
+      <td>Landingpage</td>
+      <td>Private</td>
+      <td>Active</td>
     </tr>
   </tbody>
 </table>
@@ -82,14 +84,13 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 - [x] contributing more in Open Source projects
 - [ ] Building my own portfolio page
 - [x] learn how to work with Laravel
-- [ ] enhance Laravel skills
 - [x] learn how to work with VueJs
-- [ ] enhance VueJs skills
+- [x] enhance Vue.js/Nuxt.js skills
 - [x] own public Webapplication
 - [x] start with mobile development
 - [x] Work mainly on Linux destributions
 
 ---
 
-⏰ Updated on Mo, 18 Okt 2021 08:27 PM
+⏰ Updated on Mo, 18 Okt 2021 08:37 PM
 
