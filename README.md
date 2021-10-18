@@ -1,5 +1,5 @@
 ![Header image](https://github.com/NinoKrb/NinoKrb/blob/main/GitHub_Header.png)
-Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby developer from Bochum, Germany.
+Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend developer from Bochum, Germany.
 
 
 ## About Me
@@ -91,5 +91,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Fullstack hobby 
 
 ---
 
-⏰ Updated on Sun, 03 Okt 2021 07:29 PM
+⏰ Updated on Mo, 18 Okt 2021 08:27 PM
 
