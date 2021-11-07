@@ -20,8 +20,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ## Operating Systems:
 <a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows 10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/windows10.svg"></a>
-<a href="https://ubuntu.com/download" target="_blank"><img align="left" alt="Ubuntu 20.10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/ubuntu.svg"></a>
-<a href="https://www.deepin.org" target="_blank"><img align="left" alt="Deepin 20.02.02" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/deepin-logo.svg"></a>
 <a href="https://www.zorin.com" target="_blank"><img align="left" alt="Zorin 16" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/zorin-logo.svg"></a>
 <a href="https://pop.system76.com/" target="_blank"><img align="left" alt="PopOs" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/popos.png"></a>
 
@@ -35,14 +33,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap4" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/bootstrap/bootstrap-4.svg"> </a>
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/laravel/laravel-2.svg"> </a>
 <a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank"> <img align="left" alt="PHP" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/php/php-1.svg"> </a>
+<br><br><br>
 <a href="https://www.gitkraken.com/" target="_blank"> <img align="left" alt="Gitkraken" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/gitkraken/gitkraken.svg"> </a>
 <a href="https://mariadb.org/" target="_blank"> <img align="left" alt="MariaDB" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/mariadb/mariadb.svg"> </a>
-<br><br><br>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxt.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/nuxtjs/nuxt-2.svg"> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwindcss" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/tailwind/tailwind-css-2.svg"> </a>
-<a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/dart/dart.svg"> </a>
-<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/flutter/flutter.svg"> </a>
 
 <br><br>
 
