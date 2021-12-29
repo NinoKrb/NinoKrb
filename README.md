@@ -64,12 +64,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Public</td>
       <td>Active</td>
     </tr>
-    <tr>
-      <td>Portfolio</td>
-      <td>Landingpage</td>
-      <td>Private</td>
-      <td>Active</td>
-    </tr>
   </tbody>
 </table>
 
@@ -78,7 +72,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 ## Plans for 2021
 
 - [x] contributing more in Open Source projects
-- [ ] Building my own portfolio page
+- [x] Building my own portfolio page
 - [x] learn how to work with Laravel
 - [x] learn how to work with VueJs
 - [x] enhance Vue.js/Nuxt.js skills
@@ -88,5 +82,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Thu, 04 Nov 2021 11:51 PM
+⏰ Updated on Wed, 29 Dec 2021 01:55 PM
 
