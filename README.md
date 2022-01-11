@@ -20,7 +20,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 ## Operating Systems:
 <a href="https://www.microsoft.com" target="_blank"><img align="left" alt="Windows 10" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/windows10.svg"></a>
 <a href="https://www.zorin.com" target="_blank"><img align="left" alt="Zorin 16" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/zorin-logo.svg"></a>
-<a href="https://pop.system76.com/" target="_blank"><img align="left" alt="PopOs" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/popos.png"></a>
+<a href="https://manjaro.org/" target="_blank"><img align="left" alt="Manjaro" height ="42px" src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/OS/Manjaro-logo.svg"></a>
 
 <br><br>
 
@@ -97,5 +97,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Tue, 11 Jan 2022 11:00 PM
+⏰ Updated on Tue, 11 Jan 2022 11:03 PM
 
