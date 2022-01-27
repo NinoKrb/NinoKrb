@@ -59,13 +59,13 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   <tbody>
     <tr>
       <td>Firewrite</td>
-      <td>Documents</td>
+      <td>-/-</td>
       <td>Public</td>
       <td>Active</td>
     </tr>
     <tr>
       <td>Personal Organizer</td>
-      <td>Base System & Health Tracking</td>
+      <td>User Management</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
