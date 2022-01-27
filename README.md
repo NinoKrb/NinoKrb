@@ -38,6 +38,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/vue/vue.svg"> </a>
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxt.js" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/nuxtjs/nuxt-2.svg"> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwindcss" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/tailwind/tailwind-css-2.svg"> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="NodeJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/node/node.svg"> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="NodeJs" height ="42px"  src="https://github.com/NinoKrb/NinoKrb/blob/main/language_and_tools/square/sass/sass.svg"> </a>
+
 
 <br><br>
 
@@ -97,5 +100,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Thu, 27 Jan 2022 07:25 PM
+⏰ Updated on Thu, 27 Jan 2022 07:29 PM
 
