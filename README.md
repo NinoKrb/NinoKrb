@@ -68,7 +68,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
     </tr>
     <tr>
       <td>Personal Organizer</td>
-      <td>User Management</td>
+      <td>Time Tracking</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -100,5 +100,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Thu, 27 Jan 2022 07:29 PM
+⏰ Updated on Thu, 03 Feb 2022 09:03 PM
 
