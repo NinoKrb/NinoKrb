@@ -61,14 +61,14 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   </thead>
   <tbody>
     <tr>
-      <td>Firewrite</td>
+      <td>Personal Organizer</td>
       <td>-/-</td>
-      <td>Public</td>
+      <td>Private</td>
       <td>Active</td>
     </tr>
     <tr>
-      <td>Personal Organizer</td>
-      <td>Time Tracking</td>
+      <td>Pixel Farming</td>
+      <td>Base Framework</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -100,5 +100,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Thu, 03 Feb 2022 09:03 PM
+⏰ Updated on Mon, 07 Mar 2022 09:29 PM
 
