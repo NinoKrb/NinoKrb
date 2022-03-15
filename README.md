@@ -177,11 +177,11 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Personal Organizer</td>
       <td>-/-</td>
       <td>Private</td>
-      <td>Active</td>
+      <td>Paused</td>
     </tr>
     <tr>
       <td>Pixel Farming</td>
-      <td>Base Framework</td>
+      <td>Graphics & Overlays</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -213,5 +213,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Tue, 08 Mar 2022 12:08 AM
+⏰ Updated on Tue, 15 Mar 2022 07:03 PM
 
