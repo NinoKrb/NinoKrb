@@ -185,6 +185,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Private</td>
       <td>Active</td>
     </tr>
+    <tr>
+      <td>Retro Streetfighter x RaspberryPi</td>
+      <td>Controller Management</td>
+      <td>Private</td>
+      <td>Active</td>
+    </tr>
   </tbody>
 </table>
 
@@ -213,5 +219,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Tue, 15 Mar 2022 07:03 PM
+⏰ Updated on Sun, 20 Mar 2022 08:13 PM
 
