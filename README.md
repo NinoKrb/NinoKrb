@@ -181,7 +181,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
     </tr>
     <tr>
       <td>Pixel Farming</td>
-      <td>Graphics & Overlays</td>
+      <td>Inventory</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -219,5 +219,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Sun, 20 Mar 2022 08:13 PM
+⏰ Updated on Mo, 21 Mar 2022 09:54 PM
 
