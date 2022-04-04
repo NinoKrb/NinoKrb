@@ -186,12 +186,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Active</td>
     </tr>
     <tr>
-      <td>Retro Streetfighter x RaspberryPi</td>
-      <td>Animation Management</td>
-      <td>Private</td>
-      <td>Active</td>
-    </tr>
-    <tr>
       <td>Insectlog Frontend Homepage</td>
       <td>Base Structure</td>
       <td>Public</td>
@@ -225,5 +219,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Mo, 28 Mar 2022 11:58 PM
+⏰ Updated on Mo, 04 Apr 2022 10:38 PM
 
