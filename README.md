@@ -187,7 +187,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
     </tr>
     <tr>
       <td>Insectlog Frontend Homepage</td>
-      <td>Base Structure</td>
+      <td>Dashboard</td>
       <td>Public</td>
       <td>Active</td>
     </tr>
@@ -219,5 +219,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Mo, 04 Apr 2022 10:38 PM
+⏰ Updated on Mo, 28 Apr 2022 11:33 PM
 
