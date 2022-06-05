@@ -180,12 +180,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Paused</td>
     </tr>
     <tr>
-      <td>Pixel Farming</td>
-      <td>Inventory</td>
-      <td>Private</td>
-      <td>Active</td>
-    </tr>
-    <tr>
       <td>Insectlog Frontend Homepage</td>
       <td>Dashboard</td>
       <td>Public</td>
@@ -200,7 +194,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 - [ ] Learn how to work with React
 - [ ] Create at least 1 open-source tool
 - [ ] Take a design course for web design
-- [ ] Publish my own game
+- [x] Publish my own game
 - [ ] Learn Mobile Development with Flutter or React
 
 <details>
@@ -219,5 +213,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Mo, 28 Apr 2022 11:33 PM
+⏰ Updated on Su, 05 Jun 2022 11:45 PM
 
