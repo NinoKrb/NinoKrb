@@ -185,6 +185,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Public</td>
       <td>Active</td>
     </tr>
+    <tr>
+      <td>Company internship</td>
+      <td>Top secret 🤫</td>
+      <td>Private</td>
+      <td>Active</td>
+    </tr>
   </tbody>
 </table>
 
@@ -213,5 +219,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Su, 05 Jun 2022 11:45 PM
+⏰ Updated on Tue, 21 Jun 2022 09:17 AM
 
