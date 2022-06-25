@@ -174,10 +174,10 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   </thead>
   <tbody>
     <tr>
-      <td>Personal Organizer</td>
-      <td>-/-</td>
+      <td>Portfolio Blog</td>
+      <td>Base Design</td>
       <td>Private</td>
-      <td>Paused</td>
+      <td>Active</td>
     </tr>
     <tr>
       <td>Insectlog Frontend Homepage</td>
@@ -219,5 +219,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Tue, 21 Jun 2022 09:17 AM
+⏰ Updated on Sa, 25 Jun 2022 10:14 PM
 
