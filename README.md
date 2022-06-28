@@ -10,8 +10,6 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 👨🏻‍💻 Member of Krb Development (Voluntary software developer team)
 
-🏢 Frontend Web-Developer @aventini GmbH
-
 <span>
   <a href="https://www.github.com/ninokrb/" target="_blank">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -219,5 +217,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Sa, 25 Jun 2022 10:14 PM
+⏰ Updated on Tue, 28 Jun 2022 07:33 AM
 
