@@ -197,9 +197,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 ## Plans for 2022
 - [ ] Learn how to work with React
 - [ ] Create at least 1 open-source tool
-- [ ] Take a design course for web design
+- [ ] Learn web design more intensively
 - [x] Publish my own game
-- [ ] Learn Mobile Development with Flutter or React
+- [ ] Work with React Native
 
 <details>
 <summary>Plans for 2021</summary>
@@ -217,5 +217,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Tue, 28 Jun 2022 07:33 AM
+⏰ Updated on Tue, 28 Jun 2022 07:38 AM
 
