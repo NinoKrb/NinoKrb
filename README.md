@@ -26,6 +26,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   <a href="https://www.instagram.com/ninokrb/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="https://stackoverflow.com/users/18402744/nino-gralla" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
+  </a>
   <a href="https://ninokrb.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8e43e7?style=for-the-badge">
   </a>
@@ -114,6 +117,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   <a href="https://www.jetbrains.com/datagrip/" target="_blank">
     <img src="https://img.shields.io/badge/Datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white">
   </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
 </span>
 
 ## 💻 Operating Systems:
@@ -134,6 +143,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 <span>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   </a>
   <a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
