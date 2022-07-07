@@ -185,7 +185,7 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   <tbody>
     <tr>
       <td>Portfolio Blog</td>
-      <td>Base Design</td>
+      <td>Backend CMS</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -193,6 +193,12 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
       <td>Insectlog Frontend Homepage</td>
       <td>Dashboard</td>
       <td>Public</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td>Workout Tracker</td>
+      <td>Base Design</td>
+      <td>Private</td>
       <td>Active</td>
     </tr>
     <tr>
@@ -229,5 +235,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Tue, 28 Jun 2022 07:38 AM
+⏰ Updated on Thu, 07 Jul 2022 11:55 PM
 
