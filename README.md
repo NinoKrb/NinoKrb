@@ -1,5 +1,5 @@
 ![Header image](https://github.com/NinoKrb/NinoKrb/blob/main/GitHub_Header.png)
-Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend developer from Bochum, Germany.
+Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer from Bochum, Germany.
 
 ![](https://komarev.com/ghpvc/?username=ninokrb&style=flat-square&label=PROFILE+VIEWS)
 
@@ -9,6 +9,13 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 💻 Professional frontend Web-Developer
 
 👨🏻‍💻 Member of Krb Development (Voluntary software developer team)
+
+🧰 Currently in an internship at Werkbank GmbH
+
+
+<br>
+
+## Visit my social networks:
 
 <span>
   <a href="https://www.github.com/ninokrb/" target="_blank">
@@ -134,6 +141,9 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
   <a href="https://manjaro.org/" target="_blank">
     <img src="https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white">
   </a>
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white">
+  </a>
   <a href="https://apple.com/ios" target="_blank">
     <img src="https://img.shields.io/badge/Apple-f63e54?style=for-the-badge&logo=ios&logoColor=white">
   </a>
@@ -235,5 +245,5 @@ Hi there, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), Frontend develop
 
 ---
 
-⏰ Updated on Thu, 07 Jul 2022 11:55 PM
+⏰ Updated on Sun, 10 Jul 2022 10:55 PM
 
