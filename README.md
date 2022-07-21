@@ -195,7 +195,7 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
   <tbody>
     <tr>
       <td>Portfolio Blog</td>
-      <td>Backend CMS</td>
+      <td>Archive & Categories</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -245,5 +245,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Sun, 17 Jul 2022 11:35 PM
+⏰ Updated on Thu, 21 Jul 2022 11:07 PM
 
