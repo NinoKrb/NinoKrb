@@ -203,11 +203,11 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
       <td>Insectlog Frontend Homepage</td>
       <td>Dashboard</td>
       <td>Public</td>
-      <td>Active</td>
+      <td>Paused</td>
     </tr>
     <tr>
-      <td>Workout Tracker</td>
-      <td>Base Design</td>
+      <td>School Project</td>
+      <td>Top secret 🤫</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -245,5 +245,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Thu, 21 Jul 2022 11:07 PM
+⏰ Updated on Thu, 28 Jul 2022 09:54 PM
 
