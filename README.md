@@ -53,6 +53,9 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
   <a href="https://nuxtjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
   </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </a>
@@ -80,6 +83,9 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 <span>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  <a href="https://www.sketch.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black">
   </a>
   <a href="https://www.gimp.org/" target="_blank">
     <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
@@ -135,17 +141,11 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 ## 💻 Operating Systems:
 
 <span>
-  <a href="https://zorin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Zorin-15A6F0?style=for-the-badge&logo=zorin&logoColor=white">
-  </a>
-  <a href="https://manjaro.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Manjaro-34BE5B?style=for-the-badge&logo=manjaro&logoColor=white">
-  </a>
   <a href="https://www.apple.com/macos/" target="_blank">
     <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white">
   </a>
   <a href="https://apple.com/ios" target="_blank">
-    <img src="https://img.shields.io/badge/Apple-f63e54?style=for-the-badge&logo=ios&logoColor=white">
+    <img src="https://img.shields.io/badge/iOS-f63e54?style=for-the-badge&logo=ios&logoColor=white">
   </a>
 </span>
 
