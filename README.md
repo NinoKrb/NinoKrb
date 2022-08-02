@@ -245,5 +245,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Thu, 28 Jul 2022 09:54 PM
+⏰ Updated on Tue, 02 Aug 2022 09:54 PM
 
