@@ -10,8 +10,6 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 👨🏻‍💻 Member of Krb Development (Voluntary software developer team)
 
-🧰 Currently in an internship at Werkbank GmbH
-
 
 <br>
 
@@ -211,12 +209,6 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
       <td>Private</td>
       <td>Active</td>
     </tr>
-    <tr>
-      <td>Company internship</td>
-      <td>Top secret 🤫</td>
-      <td>Private</td>
-      <td>Active</td>
-    </tr>
   </tbody>
 </table>
 
@@ -245,5 +237,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Tue, 02 Aug 2022 09:54 PM
+⏰ Updated on Sat, 06 Aug 2022 04:29 PM
 
