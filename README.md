@@ -193,7 +193,7 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
   <tbody>
     <tr>
       <td>Portfolio Blog</td>
-      <td>Archive & Categories</td>
+      <td>Logic</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -205,7 +205,7 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
     </tr>
     <tr>
       <td>School Project</td>
-      <td>Top secret 🤫</td>
+      <td>Top secret</td>
       <td>Private</td>
       <td>Active</td>
     </tr>
@@ -237,5 +237,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Sat, 06 Aug 2022 04:29 PM
+⏰ Updated on Sun, 07 Aug 2022 11:38 PM
 
