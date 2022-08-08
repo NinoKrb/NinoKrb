@@ -10,6 +10,8 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 👨🏻‍💻 Member of Krb Development (Voluntary software developer team)
 
+🌴 Currently on vacation
+
 
 <br>
 
@@ -237,5 +239,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Sun, 07 Aug 2022 11:38 PM
+⏰ Updated on Mon, 08 Aug 2022 09:36 PM
 
