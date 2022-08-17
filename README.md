@@ -177,41 +177,60 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-<details open>
-<summary>My current Projects</summary>
-<br>
-  
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📦 Repository</b></td>
-      <td><b>🔨 Current Task</b></td>
-      <td><b>👀 Publicity</b></td>
-      <td><b>📊 Status</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Portfolio Blog</td>
-      <td>Logic</td>
-      <td>Private</td>
-      <td>Active</td>
-    </tr>
-    <tr>
-      <td>Insectlog Frontend Homepage</td>
-      <td>Dashboard</td>
-      <td>Public</td>
-      <td>Paused</td>
-    </tr>
-    <tr>
-      <td>School Project</td>
-      <td>Top secret</td>
-      <td>Private</td>
-      <td>Active</td>
-    </tr>
-  </tbody>
-</table>
+## 🗂 Current Projects:
 
+<details open>
+  <summary>🖥 Development</summary>
+  <br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>📦 Repository</b></td>
+        <td><b>🔨 Current Task</b></td>
+        <td><b>👀 Publicity</b></td>
+        <td><b>📊 Status</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Portfolio Blog</td>
+        <td>Logic</td>
+        <td>Private</td>
+        <td>Active</td>
+      </tr>
+      <tr>
+        <td>Insectlog Frontend Homepage</td>
+        <td>Dashboard</td>
+        <td>Public</td>
+        <td>Paused</td>
+      </tr>
+      <tr>
+        <td>School Project</td>
+        <td>Top secret</td>
+        <td>Private</td>
+        <td>Active</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details open>
+  <summary>🎨 Design</summary>
+  <br>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>📁 Project</b></td>
+        <td><b>📊 Status</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Fitness + Health App</td>
+        <td>Active</td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 
 ## Plans for 2022
@@ -237,5 +256,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Tue, 16 Aug 2022 09:12 PM
+⏰ Updated on Wed, 17 Aug 2022 11:17 PM
 
