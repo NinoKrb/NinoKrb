@@ -221,12 +221,14 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
     <thead align="center">
       <tr border: none;>
         <td><b>📁 Project</b></td>
+        <td><b>🖌 Task</b></td>
         <td><b>📊 Status</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>Fitness + Health App</td>
+        <td>Workout Design</td>
         <td>Active</td>
       </tr>
     </tbody>
@@ -256,5 +258,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Fri, 19 Aug 2022 09:03 PM
+⏰ Updated on Sun, 21 Aug 2022 12:07 AM
 
