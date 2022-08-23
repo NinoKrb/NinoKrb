@@ -205,8 +205,8 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
         <td>Paused</td>
       </tr>
       <tr>
-        <td>School Project</td>
-        <td>Top secret</td>
+        <td>athletica (Fitness + Health App)</td>
+        <td>UI/UX Planning</td>
         <td>Private</td>
         <td>Active</td>
       </tr>
@@ -258,5 +258,5 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
 
 ---
 
-⏰ Updated on Mon, 22 Aug 2022 08:08 PM
+⏰ Updated on Tue, 23 Aug 2022 08:47 PM
 
