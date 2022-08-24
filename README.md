@@ -193,18 +193,6 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
     </thead>
     <tbody>
       <tr>
-        <td>Portfolio Blog</td>
-        <td>Logic</td>
-        <td>Private</td>
-        <td>Paused</td>
-      </tr>
-      <tr>
-        <td>Insectlog Frontend Homepage</td>
-        <td>Dashboard</td>
-        <td>Public</td>
-        <td>Paused</td>
-      </tr>
-      <tr>
         <td>athletica (Fitness + Health App)</td>
         <td>UI/UX Planning</td>
         <td>Private</td>
