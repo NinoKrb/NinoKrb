@@ -216,7 +216,7 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
     <tbody>
       <tr>
         <td>Fitness + Health App</td>
-        <td>Pageflow</td>
+        <td>Pageflow + Mockups</td>
         <td>Active</td>
       </tr>
     </tbody>
