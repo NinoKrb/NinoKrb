@@ -136,7 +136,7 @@ Hello, I'm Nino - aka [NinoKrb](https://github.com/ninokrb), frontend developer 
   </a>
 </span>
 
-## 💻 Operating Systems:
+### 💻 Operating Systems:
 
 <span>
   <a href="https://www.apple.com/macos/" target="_blank">
